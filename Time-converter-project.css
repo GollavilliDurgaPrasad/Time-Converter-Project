@@ -1,0 +1,45 @@
+.backgrounds {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: "OpenSans";
+
+
+}
+
+.de {
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.timeConverter {
+    font-size: 40px;
+
+
+}
+
+.timeText {
+    font-size: 20px;
+}
+
+.button {
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #f5f7fa;
+}
+
+.y {
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: transparent;
+    height: 50px;
+    width: 90px;
+    padding: 10px;
+    outline-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+}
